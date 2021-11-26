@@ -1,5 +1,7 @@
 #So multithreading is a way of running multiple things at once
 #We can accomplish this by doing this
+#DO NOT RUN!
+#THIS WILL NOT WORK WITHOUT EDITING
 
 #1 - Without Join():
 import threading
